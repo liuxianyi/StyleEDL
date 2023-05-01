@@ -1,6 +1,7 @@
 
 # StyleEDL: Style-Guided High-order Attention Network for Image
 ## Abstract
+Emotion distribution learning has gained increasing attention with
 the tendency to express emotions through images. As for emotion
 ambiguity arising from humans’ subjectivity, substantial previous
 methods generally focused on learning appropriate representations
