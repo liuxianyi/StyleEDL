@@ -1,0 +1,416 @@
+2023-04-22 18:44:16,436 - trainer.gmgtrainer - INFO - Train: 0	Loss: 1.3313	kldiv: 0.6574	Cosine: 0.8182	 Cheb: 0.3095	 intersection: 0.6082
+2023-04-22 18:44:16,454 - trainer.gmgtrainer - INFO - Acc:0.7238546013832092
+2023-04-22 18:44:44,522 - trainer.gmgtrainer - INFO - Test: 0	Loss: 0.8785	kldiv: 0.5670	Cosine: 0.8406	Cheb: 0.2724	 intersection: 0.6454
+2023-04-22 18:44:44,522 - trainer.gmgtrainer - INFO - Acc:0.7261905074119568
+2023-04-22 18:51:37,865 - trainer.gmgtrainer - INFO - Train: 1	Loss: 1.1534	kldiv: 0.5624	Cosine: 0.8447	 Cheb: 0.2783	 intersection: 0.6458
+2023-04-22 18:51:37,903 - trainer.gmgtrainer - INFO - Acc:0.7326942682266235
+2023-04-22 18:52:05,569 - trainer.gmgtrainer - INFO - Test: 1	Loss: 0.7840	kldiv: 0.5024	Cosine: 0.8629	Cheb: 0.2482	 intersection: 0.6787
+2023-04-22 18:52:05,570 - trainer.gmgtrainer - INFO - Acc:0.7500000596046448
+2023-04-22 18:58:59,326 - trainer.gmgtrainer - INFO - Train: 2	Loss: 1.0700	kldiv: 0.5190	Cosine: 0.8584	 Cheb: 0.2629	 intersection: 0.6656
+2023-04-22 18:58:59,359 - trainer.gmgtrainer - INFO - Acc:0.7465139627456665
+2023-04-22 18:59:27,358 - trainer.gmgtrainer - INFO - Test: 2	Loss: 0.7656	kldiv: 0.4895	Cosine: 0.8669	Cheb: 0.2393	 intersection: 0.6955
+2023-04-22 18:59:27,359 - trainer.gmgtrainer - INFO - Acc:0.7460317611694336
+2023-04-22 19:06:23,220 - trainer.gmgtrainer - INFO - Train: 3	Loss: 1.0155	kldiv: 0.4922	Cosine: 0.8661	 Cheb: 0.2531	 intersection: 0.6782
+2023-04-22 19:06:23,225 - trainer.gmgtrainer - INFO - Acc:0.7473855018615723
+2023-04-22 19:06:51,230 - trainer.gmgtrainer - INFO - Test: 3	Loss: 0.7304	kldiv: 0.4670	Cosine: 0.8746	Cheb: 0.2380	 intersection: 0.6939
+2023-04-22 19:06:51,230 - trainer.gmgtrainer - INFO - Acc:0.7549603581428528
+2023-04-22 19:13:45,918 - trainer.gmgtrainer - INFO - Train: 4	Loss: 0.9805	kldiv: 0.4741	Cosine: 0.8710	 Cheb: 0.2472	 intersection: 0.6865
+2023-04-22 19:13:45,959 - trainer.gmgtrainer - INFO - Acc:0.7543575763702393
+2023-04-22 19:14:13,846 - trainer.gmgtrainer - INFO - Test: 4	Loss: 0.7139	kldiv: 0.4569	Cosine: 0.8759	Cheb: 0.2329	 intersection: 0.7027
+2023-04-22 19:14:13,846 - trainer.gmgtrainer - INFO - Acc:0.7609127163887024
+2023-04-22 19:21:07,659 - trainer.gmgtrainer - INFO - Train: 5	Loss: 0.9443	kldiv: 0.4557	Cosine: 0.8778	 Cheb: 0.2404	 intersection: 0.6953
+2023-04-22 19:21:07,673 - trainer.gmgtrainer - INFO - Acc:0.762201189994812
+2023-04-22 19:21:35,628 - trainer.gmgtrainer - INFO - Test: 5	Loss: 0.7156	kldiv: 0.4524	Cosine: 0.8791	Cheb: 0.2293	 intersection: 0.7136
+2023-04-22 19:21:35,629 - trainer.gmgtrainer - INFO - Acc:0.763888955116272
+2023-04-22 19:28:29,536 - trainer.gmgtrainer - INFO - Train: 6	Loss: 0.9115	kldiv: 0.4387	Cosine: 0.8828	 Cheb: 0.2340	 intersection: 0.7028
+2023-04-22 19:28:29,553 - trainer.gmgtrainer - INFO - Acc:0.7654382586479187
+2023-04-22 19:28:57,514 - trainer.gmgtrainer - INFO - Test: 6	Loss: 0.7254	kldiv: 0.4647	Cosine: 0.8733	Cheb: 0.2333	 intersection: 0.7045
+2023-04-22 19:28:57,515 - trainer.gmgtrainer - INFO - Acc:0.7549603581428528
+2023-04-22 19:35:51,253 - trainer.gmgtrainer - INFO - Train: 7	Loss: 0.8829	kldiv: 0.4242	Cosine: 0.8879	 Cheb: 0.2292	 intersection: 0.7095
+2023-04-22 19:35:51,278 - trainer.gmgtrainer - INFO - Acc:0.7747759222984314
+2023-04-22 19:36:19,133 - trainer.gmgtrainer - INFO - Test: 7	Loss: 0.7030	kldiv: 0.4452	Cosine: 0.8800	Cheb: 0.2302	 intersection: 0.7094
+2023-04-22 19:36:19,133 - trainer.gmgtrainer - INFO - Acc:0.7683532238006592
+2023-04-22 19:43:13,582 - trainer.gmgtrainer - INFO - Train: 8	Loss: 0.8628	kldiv: 0.4142	Cosine: 0.8914	 Cheb: 0.2246	 intersection: 0.7145
+2023-04-22 19:43:13,617 - trainer.gmgtrainer - INFO - Acc:0.7770169377326965
+2023-04-22 19:43:41,776 - trainer.gmgtrainer - INFO - Test: 8	Loss: 0.7087	kldiv: 0.4479	Cosine: 0.8804	Cheb: 0.2272	 intersection: 0.7136
+2023-04-22 19:43:41,776 - trainer.gmgtrainer - INFO - Acc:0.7624008655548096
+2023-04-22 19:50:38,351 - trainer.gmgtrainer - INFO - Train: 9	Loss: 0.8353	kldiv: 0.3998	Cosine: 0.8961	 Cheb: 0.2196	 intersection: 0.7207
+2023-04-22 19:50:38,388 - trainer.gmgtrainer - INFO - Acc:0.780378520488739
+2023-04-22 19:51:06,265 - trainer.gmgtrainer - INFO - Test: 9	Loss: 0.7008	kldiv: 0.4435	Cosine: 0.8811	Cheb: 0.2267	 intersection: 0.7167
+2023-04-22 19:51:06,265 - trainer.gmgtrainer - INFO - Acc:0.7514881491661072
+2023-04-22 19:58:01,251 - trainer.gmgtrainer - INFO - Train: 10	Loss: 0.7608	kldiv: 0.3640	Cosine: 0.9088	 Cheb: 0.2049	 intersection: 0.7387
+2023-04-22 19:58:01,266 - trainer.gmgtrainer - INFO - Acc:0.7958167791366577
+2023-04-22 19:58:29,232 - trainer.gmgtrainer - INFO - Test: 10	Loss: 0.6879	kldiv: 0.4357	Cosine: 0.8837	Cheb: 0.2222	 intersection: 0.7203
+2023-04-22 19:58:29,232 - trainer.gmgtrainer - INFO - Acc:0.7653770446777344
+2023-04-22 20:05:24,899 - trainer.gmgtrainer - INFO - Train: 11	Loss: 0.7461	kldiv: 0.3566	Cosine: 0.9120	 Cheb: 0.2014	 intersection: 0.7437
+2023-04-22 20:05:24,923 - trainer.gmgtrainer - INFO - Acc:0.806399405002594
+2023-04-22 20:05:53,107 - trainer.gmgtrainer - INFO - Test: 11	Loss: 0.6860	kldiv: 0.4314	Cosine: 0.8855	Cheb: 0.2208	 intersection: 0.7229
+2023-04-22 20:05:53,107 - trainer.gmgtrainer - INFO - Acc:0.771329402923584
+2023-04-22 20:12:48,295 - trainer.gmgtrainer - INFO - Train: 12	Loss: 0.7438	kldiv: 0.3541	Cosine: 0.9122	 Cheb: 0.2002	 intersection: 0.7446
+2023-04-22 20:12:48,320 - trainer.gmgtrainer - INFO - Acc:0.807146430015564
+2023-04-22 20:13:16,347 - trainer.gmgtrainer - INFO - Test: 12	Loss: 0.6849	kldiv: 0.4312	Cosine: 0.8857	Cheb: 0.2212	 intersection: 0.7227
+2023-04-22 20:13:16,348 - trainer.gmgtrainer - INFO - Acc:0.7733135223388672
+2023-04-22 20:20:11,685 - trainer.gmgtrainer - INFO - Train: 13	Loss: 0.7325	kldiv: 0.3484	Cosine: 0.9142	 Cheb: 0.1974	 intersection: 0.7479
+2023-04-22 20:20:11,693 - trainer.gmgtrainer - INFO - Acc:0.8082669377326965
+2023-04-22 20:20:39,598 - trainer.gmgtrainer - INFO - Test: 13	Loss: 0.6778	kldiv: 0.4262	Cosine: 0.8878	Cheb: 0.2202	 intersection: 0.7238
+2023-04-22 20:20:39,598 - trainer.gmgtrainer - INFO - Acc:0.773809552192688
+2023-04-22 20:27:34,420 - trainer.gmgtrainer - INFO - Train: 14	Loss: 0.7312	kldiv: 0.3480	Cosine: 0.9149	 Cheb: 0.1972	 intersection: 0.7483
+2023-04-22 20:27:34,448 - trainer.gmgtrainer - INFO - Acc:0.8096364736557007
+2023-04-22 20:28:02,538 - trainer.gmgtrainer - INFO - Test: 14	Loss: 0.6845	kldiv: 0.4313	Cosine: 0.8852	Cheb: 0.2216	 intersection: 0.7220
+2023-04-22 20:28:02,538 - trainer.gmgtrainer - INFO - Acc:0.76884925365448
+2023-04-22 20:34:58,016 - trainer.gmgtrainer - INFO - Train: 15	Loss: 0.7220	kldiv: 0.3428	Cosine: 0.9162	 Cheb: 0.1957	 intersection: 0.7497
+2023-04-22 20:34:58,037 - trainer.gmgtrainer - INFO - Acc:0.810881495475769
+2023-04-22 20:35:26,192 - trainer.gmgtrainer - INFO - Test: 15	Loss: 0.6889	kldiv: 0.4325	Cosine: 0.8854	Cheb: 0.2216	 intersection: 0.7240
+2023-04-22 20:35:26,193 - trainer.gmgtrainer - INFO - Acc:0.7683532238006592
+2023-04-22 20:42:21,070 - trainer.gmgtrainer - INFO - Train: 16	Loss: 0.7200	kldiv: 0.3415	Cosine: 0.9166	 Cheb: 0.1949	 intersection: 0.7508
+2023-04-22 20:42:21,092 - trainer.gmgtrainer - INFO - Acc:0.810881495475769
+2023-04-22 20:42:49,205 - trainer.gmgtrainer - INFO - Test: 16	Loss: 0.6858	kldiv: 0.4296	Cosine: 0.8859	Cheb: 0.2207	 intersection: 0.7233
+2023-04-22 20:42:49,205 - trainer.gmgtrainer - INFO - Acc:0.7718254327774048
+2023-04-22 20:49:46,107 - trainer.gmgtrainer - INFO - Train: 17	Loss: 0.7167	kldiv: 0.3396	Cosine: 0.9169	 Cheb: 0.1941	 intersection: 0.7520
+2023-04-22 20:49:46,129 - trainer.gmgtrainer - INFO - Acc:0.8100099563598633
+2023-04-22 20:50:14,823 - trainer.gmgtrainer - INFO - Test: 17	Loss: 0.6851	kldiv: 0.4296	Cosine: 0.8864	Cheb: 0.2207	 intersection: 0.7232
+2023-04-22 20:50:14,823 - trainer.gmgtrainer - INFO - Acc:0.76884925365448
+2023-04-22 21:03:22,065 - trainer.gmgtrainer - INFO - Train: 18	Loss: 0.7103	kldiv: 0.3364	Cosine: 0.9186	 Cheb: 0.1930	 intersection: 0.7531
+2023-04-22 21:03:22,184 - trainer.gmgtrainer - INFO - Acc:0.8126245141029358
+2023-04-22 21:04:11,575 - trainer.gmgtrainer - INFO - Test: 18	Loss: 0.6892	kldiv: 0.4318	Cosine: 0.8849	Cheb: 0.2218	 intersection: 0.7221
+2023-04-22 21:04:11,575 - trainer.gmgtrainer - INFO - Acc:0.773809552192688
+2023-04-22 21:17:19,862 - trainer.gmgtrainer - INFO - Train: 19	Loss: 0.7071	kldiv: 0.3350	Cosine: 0.9197	 Cheb: 0.1922	 intersection: 0.7548
+2023-04-22 21:17:19,973 - trainer.gmgtrainer - INFO - Acc:0.8154881000518799
+2023-04-22 21:18:03,973 - trainer.gmgtrainer - INFO - Test: 19	Loss: 0.6881	kldiv: 0.4305	Cosine: 0.8851	Cheb: 0.2218	 intersection: 0.7214
+2023-04-22 21:18:03,973 - trainer.gmgtrainer - INFO - Acc:0.7703373432159424
+2023-04-22 21:24:59,523 - trainer.gmgtrainer - INFO - Train: 20	Loss: 0.7010	kldiv: 0.3315	Cosine: 0.9202	 Cheb: 0.1908	 intersection: 0.7556
+2023-04-22 21:24:59,555 - trainer.gmgtrainer - INFO - Acc:0.8203436732292175
+2023-04-22 21:25:27,592 - trainer.gmgtrainer - INFO - Test: 20	Loss: 0.6892	kldiv: 0.4302	Cosine: 0.8851	Cheb: 0.2215	 intersection: 0.7229
+2023-04-22 21:25:27,593 - trainer.gmgtrainer - INFO - Acc:0.7723214626312256
+2023-04-22 21:33:39,679 - trainer.gmgtrainer - INFO - Train: 21	Loss: 0.6897	kldiv: 0.3256	Cosine: 0.9226	 Cheb: 0.1881	 intersection: 0.7597
+2023-04-22 21:33:39,818 - trainer.gmgtrainer - INFO - Acc:0.819347620010376
+2023-04-22 21:34:26,678 - trainer.gmgtrainer - INFO - Test: 21	Loss: 0.6844	kldiv: 0.4286	Cosine: 0.8859	Cheb: 0.2220	 intersection: 0.7225
+2023-04-22 21:34:26,678 - trainer.gmgtrainer - INFO - Acc:0.7693452835083008
+2023-04-22 21:41:33,951 - trainer.gmgtrainer - INFO - Train: 22	Loss: 0.6881	kldiv: 0.3248	Cosine: 0.9228	 Cheb: 0.1884	 intersection: 0.7590
+2023-04-22 21:41:33,961 - trainer.gmgtrainer - INFO - Acc:0.8203436732292175
+2023-04-22 21:42:02,106 - trainer.gmgtrainer - INFO - Test: 22	Loss: 0.6913	kldiv: 0.4325	Cosine: 0.8847	Cheb: 0.2218	 intersection: 0.7228
+2023-04-22 21:42:02,106 - trainer.gmgtrainer - INFO - Acc:0.7728174924850464
+2023-04-22 21:48:56,731 - trainer.gmgtrainer - INFO - Train: 23	Loss: 0.6899	kldiv: 0.3256	Cosine: 0.9225	 Cheb: 0.1877	 intersection: 0.7597
+2023-04-22 21:48:56,732 - trainer.gmgtrainer - INFO - Acc:0.8202191591262817
+2023-04-22 21:49:25,016 - trainer.gmgtrainer - INFO - Test: 23	Loss: 0.6925	kldiv: 0.4323	Cosine: 0.8846	Cheb: 0.2225	 intersection: 0.7210
+2023-04-22 21:49:25,017 - trainer.gmgtrainer - INFO - Acc:0.7653770446777344
+2023-04-22 21:56:19,828 - trainer.gmgtrainer - INFO - Train: 24	Loss: 0.6809	kldiv: 0.3206	Cosine: 0.9238	 Cheb: 0.1875	 intersection: 0.7613
+2023-04-22 21:56:19,853 - trainer.gmgtrainer - INFO - Acc:0.8228337168693542
+2023-04-22 21:56:47,975 - trainer.gmgtrainer - INFO - Test: 24	Loss: 0.6952	kldiv: 0.4336	Cosine: 0.8845	Cheb: 0.2222	 intersection: 0.7219
+2023-04-22 21:56:47,976 - trainer.gmgtrainer - INFO - Acc:0.7678571939468384
+2023-04-22 22:03:42,009 - trainer.gmgtrainer - INFO - Train: 25	Loss: 0.6815	kldiv: 0.3213	Cosine: 0.9237	 Cheb: 0.1872	 intersection: 0.7606
+2023-04-22 22:03:42,035 - trainer.gmgtrainer - INFO - Acc:0.823829710483551
+2023-04-22 22:04:10,226 - trainer.gmgtrainer - INFO - Test: 25	Loss: 0.6925	kldiv: 0.4311	Cosine: 0.8854	Cheb: 0.2224	 intersection: 0.7223
+2023-04-22 22:04:10,226 - trainer.gmgtrainer - INFO - Acc:0.771329402923584
+2023-04-22 22:11:06,006 - trainer.gmgtrainer - INFO - Train: 26	Loss: 0.6739	kldiv: 0.3175	Cosine: 0.9247	 Cheb: 0.1855	 intersection: 0.7628
+2023-04-22 22:11:06,032 - trainer.gmgtrainer - INFO - Acc:0.8217131495475769
+2023-04-22 22:11:34,248 - trainer.gmgtrainer - INFO - Test: 26	Loss: 0.6994	kldiv: 0.4353	Cosine: 0.8832	Cheb: 0.2232	 intersection: 0.7210
+2023-04-22 22:11:34,248 - trainer.gmgtrainer - INFO - Acc:0.7619048357009888
+2023-04-22 22:18:28,746 - trainer.gmgtrainer - INFO - Train: 27	Loss: 0.6709	kldiv: 0.3156	Cosine: 0.9251	 Cheb: 0.1850	 intersection: 0.7641
+2023-04-22 22:18:28,747 - trainer.gmgtrainer - INFO - Acc:0.8268177509307861
+2023-04-22 22:18:56,680 - trainer.gmgtrainer - INFO - Test: 27	Loss: 0.6973	kldiv: 0.4356	Cosine: 0.8838	Cheb: 0.2223	 intersection: 0.7231
+2023-04-22 22:18:56,681 - trainer.gmgtrainer - INFO - Acc:0.7743055820465088
+2023-04-22 22:25:51,879 - trainer.gmgtrainer - INFO - Train: 28	Loss: 0.6704	kldiv: 0.3157	Cosine: 0.9256	 Cheb: 0.1840	 intersection: 0.7646
+2023-04-22 22:25:51,905 - trainer.gmgtrainer - INFO - Acc:0.8259462118148804
+2023-04-22 22:26:20,112 - trainer.gmgtrainer - INFO - Test: 28	Loss: 0.6940	kldiv: 0.4318	Cosine: 0.8852	Cheb: 0.2224	 intersection: 0.7214
+2023-04-22 22:26:20,112 - trainer.gmgtrainer - INFO - Acc:0.7698413133621216
+2023-04-22 22:33:15,604 - trainer.gmgtrainer - INFO - Train: 29	Loss: 0.6663	kldiv: 0.3132	Cosine: 0.9262	 Cheb: 0.1830	 intersection: 0.7654
+2023-04-22 22:33:15,633 - trainer.gmgtrainer - INFO - Acc:0.8250747323036194
+2023-04-22 22:33:43,687 - trainer.gmgtrainer - INFO - Test: 29	Loss: 0.6958	kldiv: 0.4333	Cosine: 0.8842	Cheb: 0.2213	 intersection: 0.7231
+2023-04-22 22:33:43,687 - trainer.gmgtrainer - INFO - Acc:0.7708333730697632
+2023-04-22 22:40:40,664 - trainer.gmgtrainer - INFO - Train: 30	Loss: 0.6570	kldiv: 0.3090	Cosine: 0.9283	 Cheb: 0.1803	 intersection: 0.7683
+2023-04-22 22:40:40,682 - trainer.gmgtrainer - INFO - Acc:0.8296812772750854
+2023-04-22 22:41:08,672 - trainer.gmgtrainer - INFO - Test: 30	Loss: 0.6997	kldiv: 0.4355	Cosine: 0.8840	Cheb: 0.2221	 intersection: 0.7232
+2023-04-22 22:41:08,673 - trainer.gmgtrainer - INFO - Acc:0.7653770446777344
+2023-04-22 22:48:04,928 - trainer.gmgtrainer - INFO - Train: 31	Loss: 0.6580	kldiv: 0.3096	Cosine: 0.9277	 Cheb: 0.1808	 intersection: 0.7685
+2023-04-22 22:48:04,958 - trainer.gmgtrainer - INFO - Acc:0.825448215007782
+2023-04-22 22:48:33,380 - trainer.gmgtrainer - INFO - Test: 31	Loss: 0.6943	kldiv: 0.4322	Cosine: 0.8849	Cheb: 0.2220	 intersection: 0.7232
+2023-04-22 22:48:33,381 - trainer.gmgtrainer - INFO - Acc:0.7703373432159424
+2023-04-22 22:55:30,084 - trainer.gmgtrainer - INFO - Train: 32	Loss: 0.6494	kldiv: 0.3052	Cosine: 0.9289	 Cheb: 0.1793	 intersection: 0.7700
+2023-04-22 22:55:30,086 - trainer.gmgtrainer - INFO - Acc:0.8312998414039612
+2023-04-22 22:55:58,610 - trainer.gmgtrainer - INFO - Test: 32	Loss: 0.6959	kldiv: 0.4342	Cosine: 0.8839	Cheb: 0.2217	 intersection: 0.7241
+2023-04-22 22:55:58,610 - trainer.gmgtrainer - INFO - Acc:0.7678571939468384
+2023-04-22 23:02:56,179 - trainer.gmgtrainer - INFO - Train: 33	Loss: 0.6528	kldiv: 0.3070	Cosine: 0.9285	 Cheb: 0.1814	 intersection: 0.7687
+2023-04-22 23:02:56,188 - trainer.gmgtrainer - INFO - Acc:0.8280627727508545
+2023-04-22 23:03:24,414 - trainer.gmgtrainer - INFO - Test: 33	Loss: 0.6989	kldiv: 0.4353	Cosine: 0.8835	Cheb: 0.2228	 intersection: 0.7223
+2023-04-22 23:03:24,414 - trainer.gmgtrainer - INFO - Acc:0.76884925365448
+2023-04-22 23:10:24,130 - trainer.gmgtrainer - INFO - Train: 34	Loss: 0.6516	kldiv: 0.3061	Cosine: 0.9294	 Cheb: 0.1799	 intersection: 0.7698
+2023-04-22 23:10:24,158 - trainer.gmgtrainer - INFO - Acc:0.8346613645553589
+2023-04-22 23:10:52,654 - trainer.gmgtrainer - INFO - Test: 34	Loss: 0.7014	kldiv: 0.4361	Cosine: 0.8845	Cheb: 0.2209	 intersection: 0.7246
+2023-04-22 23:10:52,654 - trainer.gmgtrainer - INFO - Acc:0.7653770446777344
+2023-04-22 23:17:50,895 - trainer.gmgtrainer - INFO - Train: 35	Loss: 0.6546	kldiv: 0.3080	Cosine: 0.9282	 Cheb: 0.1812	 intersection: 0.7685
+2023-04-22 23:17:50,904 - trainer.gmgtrainer - INFO - Acc:0.8279382586479187
+2023-04-22 23:18:19,090 - trainer.gmgtrainer - INFO - Test: 35	Loss: 0.6944	kldiv: 0.4322	Cosine: 0.8850	Cheb: 0.2214	 intersection: 0.7237
+2023-04-22 23:18:19,090 - trainer.gmgtrainer - INFO - Acc:0.7703373432159424
+2023-04-22 23:25:15,742 - trainer.gmgtrainer - INFO - Train: 36	Loss: 0.6485	kldiv: 0.3045	Cosine: 0.9290	 Cheb: 0.1792	 intersection: 0.7704
+2023-04-22 23:25:15,765 - trainer.gmgtrainer - INFO - Acc:0.8283118009567261
+2023-04-22 23:25:44,410 - trainer.gmgtrainer - INFO - Test: 36	Loss: 0.6918	kldiv: 0.4302	Cosine: 0.8855	Cheb: 0.2204	 intersection: 0.7244
+2023-04-22 23:25:44,410 - trainer.gmgtrainer - INFO - Acc:0.7703373432159424
+2023-04-22 23:32:41,237 - trainer.gmgtrainer - INFO - Train: 37	Loss: 0.6559	kldiv: 0.3085	Cosine: 0.9279	 Cheb: 0.1805	 intersection: 0.7686
+2023-04-22 23:32:41,268 - trainer.gmgtrainer - INFO - Acc:0.8265687227249146
+2023-04-22 23:33:09,624 - trainer.gmgtrainer - INFO - Test: 37	Loss: 0.6957	kldiv: 0.4330	Cosine: 0.8853	Cheb: 0.2209	 intersection: 0.7255
+2023-04-22 23:33:09,625 - trainer.gmgtrainer - INFO - Acc:0.7723214626312256
+2023-04-22 23:40:06,386 - trainer.gmgtrainer - INFO - Train: 38	Loss: 0.6467	kldiv: 0.3033	Cosine: 0.9299	 Cheb: 0.1790	 intersection: 0.7706
+2023-04-22 23:40:06,401 - trainer.gmgtrainer - INFO - Acc:0.8300548195838928
+2023-04-22 23:40:34,385 - trainer.gmgtrainer - INFO - Test: 38	Loss: 0.6978	kldiv: 0.4349	Cosine: 0.8835	Cheb: 0.2222	 intersection: 0.7228
+2023-04-22 23:40:34,385 - trainer.gmgtrainer - INFO - Acc:0.7673611640930176
+2023-04-22 23:47:30,299 - trainer.gmgtrainer - INFO - Train: 39	Loss: 0.6525	kldiv: 0.3064	Cosine: 0.9288	 Cheb: 0.1800	 intersection: 0.7695
+2023-04-22 23:47:30,301 - trainer.gmgtrainer - INFO - Acc:0.829930305480957
+2023-04-22 23:47:58,680 - trainer.gmgtrainer - INFO - Test: 39	Loss: 0.6981	kldiv: 0.4342	Cosine: 0.8844	Cheb: 0.2226	 intersection: 0.7228
+2023-04-22 23:47:58,681 - trainer.gmgtrainer - INFO - Acc:0.763888955116272
+2023-04-22 23:54:54,089 - trainer.gmgtrainer - INFO - Train: 40	Loss: 0.6494	kldiv: 0.3050	Cosine: 0.9290	 Cheb: 0.1793	 intersection: 0.7703
+2023-04-22 23:54:54,120 - trainer.gmgtrainer - INFO - Acc:0.830677330493927
+2023-04-22 23:55:21,948 - trainer.gmgtrainer - INFO - Test: 40	Loss: 0.7018	kldiv: 0.4360	Cosine: 0.8838	Cheb: 0.2219	 intersection: 0.7238
+2023-04-22 23:55:21,948 - trainer.gmgtrainer - INFO - Acc:0.7648810148239136
+2023-04-23 00:02:17,457 - trainer.gmgtrainer - INFO - Train: 41	Loss: 0.6545	kldiv: 0.3074	Cosine: 0.9280	 Cheb: 0.1804	 intersection: 0.7688
+2023-04-23 00:02:17,497 - trainer.gmgtrainer - INFO - Acc:0.8290587663650513
+2023-04-23 00:02:45,535 - trainer.gmgtrainer - INFO - Test: 41	Loss: 0.6966	kldiv: 0.4337	Cosine: 0.8843	Cheb: 0.2217	 intersection: 0.7239
+2023-04-23 00:02:45,535 - trainer.gmgtrainer - INFO - Acc:0.771329402923584
+2023-04-23 00:09:41,060 - trainer.gmgtrainer - INFO - Train: 42	Loss: 0.6457	kldiv: 0.3037	Cosine: 0.9301	 Cheb: 0.1786	 intersection: 0.7715
+2023-04-23 00:09:41,100 - trainer.gmgtrainer - INFO - Acc:0.831424355506897
+2023-04-23 00:10:09,260 - trainer.gmgtrainer - INFO - Test: 42	Loss: 0.7009	kldiv: 0.4371	Cosine: 0.8832	Cheb: 0.2226	 intersection: 0.7218
+2023-04-23 00:10:09,260 - trainer.gmgtrainer - INFO - Acc:0.76884925365448
+2023-04-23 00:17:04,170 - trainer.gmgtrainer - INFO - Train: 43	Loss: 0.6529	kldiv: 0.3069	Cosine: 0.9281	 Cheb: 0.1809	 intersection: 0.7687
+2023-04-23 00:17:04,184 - trainer.gmgtrainer - INFO - Acc:0.8284362554550171
+2023-04-23 00:17:32,233 - trainer.gmgtrainer - INFO - Test: 43	Loss: 0.7061	kldiv: 0.4389	Cosine: 0.8828	Cheb: 0.2237	 intersection: 0.7225
+2023-04-23 00:17:32,233 - trainer.gmgtrainer - INFO - Acc:0.7668651342391968
+2023-04-23 00:24:27,779 - trainer.gmgtrainer - INFO - Train: 44	Loss: 0.6469	kldiv: 0.3035	Cosine: 0.9295	 Cheb: 0.1795	 intersection: 0.7709
+2023-04-23 00:24:27,785 - trainer.gmgtrainer - INFO - Acc:0.8308018445968628
+2023-04-23 00:24:55,777 - trainer.gmgtrainer - INFO - Test: 44	Loss: 0.7037	kldiv: 0.4381	Cosine: 0.8828	Cheb: 0.2230	 intersection: 0.7225
+2023-04-23 00:24:55,778 - trainer.gmgtrainer - INFO - Acc:0.7703373432159424
+2023-04-23 00:31:51,195 - trainer.gmgtrainer - INFO - Train: 45	Loss: 0.6500	kldiv: 0.3054	Cosine: 0.9287	 Cheb: 0.1793	 intersection: 0.7700
+2023-04-23 00:31:51,224 - trainer.gmgtrainer - INFO - Acc:0.8301793336868286
+2023-04-23 00:32:19,203 - trainer.gmgtrainer - INFO - Test: 45	Loss: 0.6963	kldiv: 0.4334	Cosine: 0.8851	Cheb: 0.2203	 intersection: 0.7254
+2023-04-23 00:32:19,203 - trainer.gmgtrainer - INFO - Acc:0.7767857313156128
+2023-04-23 00:39:16,917 - trainer.gmgtrainer - INFO - Train: 46	Loss: 0.6480	kldiv: 0.3040	Cosine: 0.9293	 Cheb: 0.1797	 intersection: 0.7706
+2023-04-23 00:39:16,921 - trainer.gmgtrainer - INFO - Acc:0.8224601745605469
+2023-04-23 00:39:45,040 - trainer.gmgtrainer - INFO - Test: 46	Loss: 0.6963	kldiv: 0.4334	Cosine: 0.8845	Cheb: 0.2216	 intersection: 0.7242
+2023-04-23 00:39:45,041 - trainer.gmgtrainer - INFO - Acc:0.7658730745315552
+2023-04-23 00:46:40,809 - trainer.gmgtrainer - INFO - Train: 47	Loss: 0.6485	kldiv: 0.3045	Cosine: 0.9292	 Cheb: 0.1796	 intersection: 0.7709
+2023-04-23 00:46:40,841 - trainer.gmgtrainer - INFO - Acc:0.831548810005188
+2023-04-23 00:47:08,808 - trainer.gmgtrainer - INFO - Test: 47	Loss: 0.6970	kldiv: 0.4347	Cosine: 0.8842	Cheb: 0.2215	 intersection: 0.7223
+2023-04-23 00:47:08,808 - trainer.gmgtrainer - INFO - Acc:0.773809552192688
+2023-04-23 00:54:04,669 - trainer.gmgtrainer - INFO - Train: 48	Loss: 0.6467	kldiv: 0.3036	Cosine: 0.9305	 Cheb: 0.1788	 intersection: 0.7714
+2023-04-23 00:54:04,679 - trainer.gmgtrainer - INFO - Acc:0.8370268940925598
+2023-04-23 00:54:32,772 - trainer.gmgtrainer - INFO - Test: 48	Loss: 0.6980	kldiv: 0.4348	Cosine: 0.8842	Cheb: 0.2220	 intersection: 0.7237
+2023-04-23 00:54:32,772 - trainer.gmgtrainer - INFO - Acc:0.7718254327774048
+2023-04-23 01:01:28,228 - trainer.gmgtrainer - INFO - Train: 49	Loss: 0.6463	kldiv: 0.3032	Cosine: 0.9300	 Cheb: 0.1793	 intersection: 0.7715
+2023-04-23 01:01:28,256 - trainer.gmgtrainer - INFO - Acc:0.8284362554550171
+2023-04-23 01:01:56,228 - trainer.gmgtrainer - INFO - Test: 49	Loss: 0.6971	kldiv: 0.4340	Cosine: 0.8838	Cheb: 0.2228	 intersection: 0.7224
+2023-04-23 01:01:56,228 - trainer.gmgtrainer - INFO - Acc:0.7599206566810608
+2023-04-23 01:08:51,999 - trainer.gmgtrainer - INFO - Train: 50	Loss: 0.6380	kldiv: 0.2995	Cosine: 0.9313	 Cheb: 0.1770	 intersection: 0.7728
+2023-04-23 01:08:52,017 - trainer.gmgtrainer - INFO - Acc:0.8312998414039612
+2023-04-23 01:09:20,331 - trainer.gmgtrainer - INFO - Test: 50	Loss: 0.6983	kldiv: 0.4349	Cosine: 0.8844	Cheb: 0.2223	 intersection: 0.7231
+2023-04-23 01:09:20,332 - trainer.gmgtrainer - INFO - Acc:0.771329402923584
+2023-04-23 01:16:16,327 - trainer.gmgtrainer - INFO - Train: 51	Loss: 0.6459	kldiv: 0.3031	Cosine: 0.9298	 Cheb: 0.1785	 intersection: 0.7709
+2023-04-23 01:16:16,344 - trainer.gmgtrainer - INFO - Acc:0.8264442682266235
+2023-04-23 01:16:44,513 - trainer.gmgtrainer - INFO - Test: 51	Loss: 0.6992	kldiv: 0.4351	Cosine: 0.8840	Cheb: 0.2216	 intersection: 0.7247
+2023-04-23 01:16:44,513 - trainer.gmgtrainer - INFO - Acc:0.76884925365448
+2023-04-23 01:23:40,452 - trainer.gmgtrainer - INFO - Train: 52	Loss: 0.6434	kldiv: 0.3018	Cosine: 0.9296	 Cheb: 0.1782	 intersection: 0.7720
+2023-04-23 01:23:40,483 - trainer.gmgtrainer - INFO - Acc:0.8266932368278503
+2023-04-23 01:24:08,554 - trainer.gmgtrainer - INFO - Test: 52	Loss: 0.7030	kldiv: 0.4371	Cosine: 0.8835	Cheb: 0.2223	 intersection: 0.7230
+2023-04-23 01:24:08,554 - trainer.gmgtrainer - INFO - Acc:0.7658730745315552
+2023-04-23 01:31:04,545 - trainer.gmgtrainer - INFO - Train: 53	Loss: 0.6442	kldiv: 0.3020	Cosine: 0.9297	 Cheb: 0.1787	 intersection: 0.7721
+2023-04-23 01:31:04,568 - trainer.gmgtrainer - INFO - Acc:0.8281872868537903
+2023-04-23 01:31:32,654 - trainer.gmgtrainer - INFO - Test: 53	Loss: 0.6966	kldiv: 0.4335	Cosine: 0.8852	Cheb: 0.2210	 intersection: 0.7253
+2023-04-23 01:31:32,655 - trainer.gmgtrainer - INFO - Acc:0.773809552192688
+2023-04-23 01:38:28,295 - trainer.gmgtrainer - INFO - Train: 54	Loss: 0.6463	kldiv: 0.3032	Cosine: 0.9292	 Cheb: 0.1792	 intersection: 0.7710
+2023-04-23 01:38:28,311 - trainer.gmgtrainer - INFO - Acc:0.8255727291107178
+2023-04-23 01:38:56,321 - trainer.gmgtrainer - INFO - Test: 54	Loss: 0.7011	kldiv: 0.4356	Cosine: 0.8841	Cheb: 0.2228	 intersection: 0.7228
+2023-04-23 01:38:56,322 - trainer.gmgtrainer - INFO - Acc:0.7673611640930176
+2023-04-23 01:45:52,229 - trainer.gmgtrainer - INFO - Train: 55	Loss: 0.6433	kldiv: 0.3016	Cosine: 0.9301	 Cheb: 0.1783	 intersection: 0.7711
+2023-04-23 01:45:52,249 - trainer.gmgtrainer - INFO - Acc:0.8295568227767944
+2023-04-23 01:46:20,495 - trainer.gmgtrainer - INFO - Test: 55	Loss: 0.6962	kldiv: 0.4322	Cosine: 0.8846	Cheb: 0.2220	 intersection: 0.7223
+2023-04-23 01:46:20,496 - trainer.gmgtrainer - INFO - Acc:0.763888955116272
+2023-04-23 01:53:16,366 - trainer.gmgtrainer - INFO - Train: 56	Loss: 0.6408	kldiv: 0.3008	Cosine: 0.9306	 Cheb: 0.1786	 intersection: 0.7717
+2023-04-23 01:53:16,378 - trainer.gmgtrainer - INFO - Acc:0.8274402618408203
+2023-04-23 01:53:44,379 - trainer.gmgtrainer - INFO - Test: 56	Loss: 0.6969	kldiv: 0.4329	Cosine: 0.8852	Cheb: 0.2217	 intersection: 0.7247
+2023-04-23 01:53:44,379 - trainer.gmgtrainer - INFO - Acc:0.7718254327774048
+2023-04-23 02:00:40,700 - trainer.gmgtrainer - INFO - Train: 57	Loss: 0.6446	kldiv: 0.3024	Cosine: 0.9302	 Cheb: 0.1779	 intersection: 0.7723
+2023-04-23 02:00:40,717 - trainer.gmgtrainer - INFO - Acc:0.8350349068641663
+2023-04-23 02:01:08,913 - trainer.gmgtrainer - INFO - Test: 57	Loss: 0.7043	kldiv: 0.4381	Cosine: 0.8833	Cheb: 0.2231	 intersection: 0.7238
+2023-04-23 02:01:08,913 - trainer.gmgtrainer - INFO - Acc:0.7668651342391968
+2023-04-23 02:08:06,674 - trainer.gmgtrainer - INFO - Train: 58	Loss: 0.6464	kldiv: 0.3036	Cosine: 0.9296	 Cheb: 0.1786	 intersection: 0.7713
+2023-04-23 02:08:06,679 - trainer.gmgtrainer - INFO - Acc:0.8289343118667603
+2023-04-23 02:08:34,792 - trainer.gmgtrainer - INFO - Test: 58	Loss: 0.7001	kldiv: 0.4359	Cosine: 0.8838	Cheb: 0.2226	 intersection: 0.7215
+2023-04-23 02:08:34,792 - trainer.gmgtrainer - INFO - Acc:0.7624008655548096
+2023-04-23 02:15:30,753 - trainer.gmgtrainer - INFO - Train: 59	Loss: 0.6451	kldiv: 0.3028	Cosine: 0.9297	 Cheb: 0.1789	 intersection: 0.7713
+2023-04-23 02:15:30,782 - trainer.gmgtrainer - INFO - Acc:0.8269422650337219
+2023-04-23 02:15:58,872 - trainer.gmgtrainer - INFO - Test: 59	Loss: 0.6955	kldiv: 0.4326	Cosine: 0.8847	Cheb: 0.2218	 intersection: 0.7237
+2023-04-23 02:15:58,872 - trainer.gmgtrainer - INFO - Acc:0.7693452835083008
+2023-04-23 02:22:55,870 - trainer.gmgtrainer - INFO - Train: 60	Loss: 0.6450	kldiv: 0.3024	Cosine: 0.9299	 Cheb: 0.1784	 intersection: 0.7719
+2023-04-23 02:22:55,893 - trainer.gmgtrainer - INFO - Acc:0.8327938318252563
+2023-04-23 02:23:24,024 - trainer.gmgtrainer - INFO - Test: 60	Loss: 0.6977	kldiv: 0.4348	Cosine: 0.8851	Cheb: 0.2206	 intersection: 0.7240
+2023-04-23 02:23:24,024 - trainer.gmgtrainer - INFO - Acc:0.7728174924850464
+2023-04-23 02:30:20,328 - trainer.gmgtrainer - INFO - Train: 61	Loss: 0.6427	kldiv: 0.3016	Cosine: 0.9293	 Cheb: 0.1793	 intersection: 0.7713
+2023-04-23 02:30:20,355 - trainer.gmgtrainer - INFO - Acc:0.829930305480957
+2023-04-23 02:30:48,459 - trainer.gmgtrainer - INFO - Test: 61	Loss: 0.7036	kldiv: 0.4381	Cosine: 0.8835	Cheb: 0.2226	 intersection: 0.7230
+2023-04-23 02:30:48,459 - trainer.gmgtrainer - INFO - Acc:0.7733135223388672
+2023-04-23 02:37:45,074 - trainer.gmgtrainer - INFO - Train: 62	Loss: 0.6430	kldiv: 0.3015	Cosine: 0.9309	 Cheb: 0.1779	 intersection: 0.7720
+2023-04-23 02:37:45,089 - trainer.gmgtrainer - INFO - Acc:0.8351593613624573
+2023-04-23 02:38:13,269 - trainer.gmgtrainer - INFO - Test: 62	Loss: 0.6979	kldiv: 0.4342	Cosine: 0.8841	Cheb: 0.2221	 intersection: 0.7239
+2023-04-23 02:38:13,270 - trainer.gmgtrainer - INFO - Acc:0.7708333730697632
+2023-04-23 02:45:09,558 - trainer.gmgtrainer - INFO - Train: 63	Loss: 0.6475	kldiv: 0.3037	Cosine: 0.9295	 Cheb: 0.1789	 intersection: 0.7711
+2023-04-23 02:45:09,586 - trainer.gmgtrainer - INFO - Acc:0.8275647759437561
+2023-04-23 02:45:37,584 - trainer.gmgtrainer - INFO - Test: 63	Loss: 0.6969	kldiv: 0.4327	Cosine: 0.8843	Cheb: 0.2222	 intersection: 0.7224
+2023-04-23 02:45:37,584 - trainer.gmgtrainer - INFO - Acc:0.7703373432159424
+2023-04-23 02:52:33,959 - trainer.gmgtrainer - INFO - Train: 64	Loss: 0.6465	kldiv: 0.3034	Cosine: 0.9294	 Cheb: 0.1790	 intersection: 0.7710
+2023-04-23 02:52:33,967 - trainer.gmgtrainer - INFO - Acc:0.8334163427352905
+2023-04-23 02:53:02,036 - trainer.gmgtrainer - INFO - Test: 64	Loss: 0.7020	kldiv: 0.4366	Cosine: 0.8836	Cheb: 0.2222	 intersection: 0.7235
+2023-04-23 02:53:02,036 - trainer.gmgtrainer - INFO - Acc:0.771329402923584
+2023-04-23 02:59:58,552 - trainer.gmgtrainer - INFO - Train: 65	Loss: 0.6453	kldiv: 0.3027	Cosine: 0.9296	 Cheb: 0.1790	 intersection: 0.7709
+2023-04-23 02:59:58,596 - trainer.gmgtrainer - INFO - Acc:0.8305528163909912
+2023-04-23 03:00:26,774 - trainer.gmgtrainer - INFO - Test: 65	Loss: 0.7004	kldiv: 0.4358	Cosine: 0.8838	Cheb: 0.2223	 intersection: 0.7234
+2023-04-23 03:00:26,774 - trainer.gmgtrainer - INFO - Acc:0.7708333730697632
+2023-04-23 03:07:23,793 - trainer.gmgtrainer - INFO - Train: 66	Loss: 0.6445	kldiv: 0.3021	Cosine: 0.9296	 Cheb: 0.1786	 intersection: 0.7710
+2023-04-23 03:07:23,807 - trainer.gmgtrainer - INFO - Acc:0.8281872868537903
+2023-04-23 03:07:51,900 - trainer.gmgtrainer - INFO - Test: 66	Loss: 0.7092	kldiv: 0.4417	Cosine: 0.8829	Cheb: 0.2233	 intersection: 0.7238
+2023-04-23 03:07:51,900 - trainer.gmgtrainer - INFO - Acc:0.773809552192688
+2023-04-23 03:14:48,452 - trainer.gmgtrainer - INFO - Train: 67	Loss: 0.6459	kldiv: 0.3028	Cosine: 0.9300	 Cheb: 0.1789	 intersection: 0.7706
+2023-04-23 03:14:48,479 - trainer.gmgtrainer - INFO - Acc:0.8300548195838928
+2023-04-23 03:15:16,562 - trainer.gmgtrainer - INFO - Test: 67	Loss: 0.7026	kldiv: 0.4371	Cosine: 0.8838	Cheb: 0.2224	 intersection: 0.7232
+2023-04-23 03:15:16,563 - trainer.gmgtrainer - INFO - Acc:0.771329402923584
+2023-04-23 03:22:13,162 - trainer.gmgtrainer - INFO - Train: 68	Loss: 0.6429	kldiv: 0.3014	Cosine: 0.9301	 Cheb: 0.1789	 intersection: 0.7715
+2023-04-23 03:22:13,197 - trainer.gmgtrainer - INFO - Acc:0.8265687227249146
+2023-04-23 03:22:41,177 - trainer.gmgtrainer - INFO - Test: 68	Loss: 0.6986	kldiv: 0.4343	Cosine: 0.8843	Cheb: 0.2218	 intersection: 0.7246
+2023-04-23 03:22:41,177 - trainer.gmgtrainer - INFO - Acc:0.7693452835083008
+2023-04-23 03:29:37,864 - trainer.gmgtrainer - INFO - Train: 69	Loss: 0.6377	kldiv: 0.2991	Cosine: 0.9309	 Cheb: 0.1770	 intersection: 0.7736
+2023-04-23 03:29:37,877 - trainer.gmgtrainer - INFO - Acc:0.8346613645553589
+2023-04-23 03:30:05,958 - trainer.gmgtrainer - INFO - Test: 69	Loss: 0.6967	kldiv: 0.4340	Cosine: 0.8845	Cheb: 0.2212	 intersection: 0.7237
+2023-04-23 03:30:05,958 - trainer.gmgtrainer - INFO - Acc:0.7733135223388672
+2023-04-23 03:37:03,260 - trainer.gmgtrainer - INFO - Train: 70	Loss: 0.6436	kldiv: 0.3024	Cosine: 0.9299	 Cheb: 0.1785	 intersection: 0.7714
+2023-04-23 03:37:03,273 - trainer.gmgtrainer - INFO - Acc:0.8295568227767944
+2023-04-23 03:37:31,389 - trainer.gmgtrainer - INFO - Test: 70	Loss: 0.6945	kldiv: 0.4327	Cosine: 0.8846	Cheb: 0.2209	 intersection: 0.7255
+2023-04-23 03:37:31,390 - trainer.gmgtrainer - INFO - Acc:0.7693452835083008
+2023-04-23 03:44:28,238 - trainer.gmgtrainer - INFO - Train: 71	Loss: 0.6457	kldiv: 0.3032	Cosine: 0.9297	 Cheb: 0.1778	 intersection: 0.7714
+2023-04-23 03:44:28,281 - trainer.gmgtrainer - INFO - Acc:0.8304283022880554
+2023-04-23 03:44:56,524 - trainer.gmgtrainer - INFO - Test: 71	Loss: 0.7013	kldiv: 0.4364	Cosine: 0.8843	Cheb: 0.2210	 intersection: 0.7250
+2023-04-23 03:44:56,524 - trainer.gmgtrainer - INFO - Acc:0.7767857313156128
+2023-04-23 03:51:54,814 - trainer.gmgtrainer - INFO - Train: 72	Loss: 0.6470	kldiv: 0.3038	Cosine: 0.9295	 Cheb: 0.1784	 intersection: 0.7707
+2023-04-23 03:51:54,835 - trainer.gmgtrainer - INFO - Acc:0.8295568227767944
+2023-04-23 03:52:22,943 - trainer.gmgtrainer - INFO - Test: 72	Loss: 0.7010	kldiv: 0.4362	Cosine: 0.8840	Cheb: 0.2219	 intersection: 0.7240
+2023-04-23 03:52:22,943 - trainer.gmgtrainer - INFO - Acc:0.7708333730697632
+2023-04-23 03:59:23,162 - trainer.gmgtrainer - INFO - Train: 73	Loss: 0.6472	kldiv: 0.3035	Cosine: 0.9298	 Cheb: 0.1787	 intersection: 0.7710
+2023-04-23 03:59:23,181 - trainer.gmgtrainer - INFO - Acc:0.8342878818511963
+2023-04-23 03:59:51,394 - trainer.gmgtrainer - INFO - Test: 73	Loss: 0.7000	kldiv: 0.4354	Cosine: 0.8835	Cheb: 0.2230	 intersection: 0.7222
+2023-04-23 03:59:51,395 - trainer.gmgtrainer - INFO - Acc:0.7698413133621216
+2023-04-23 04:06:49,122 - trainer.gmgtrainer - INFO - Train: 74	Loss: 0.6462	kldiv: 0.3030	Cosine: 0.9290	 Cheb: 0.1786	 intersection: 0.7710
+2023-04-23 04:06:49,161 - trainer.gmgtrainer - INFO - Acc:0.8253237009048462
+2023-04-23 04:07:17,004 - trainer.gmgtrainer - INFO - Test: 74	Loss: 0.6997	kldiv: 0.4356	Cosine: 0.8831	Cheb: 0.2230	 intersection: 0.7221
+2023-04-23 04:07:17,004 - trainer.gmgtrainer - INFO - Acc:0.7609127163887024
+2023-04-23 04:14:14,650 - trainer.gmgtrainer - INFO - Train: 75	Loss: 0.6424	kldiv: 0.3010	Cosine: 0.9304	 Cheb: 0.1777	 intersection: 0.7722
+2023-04-23 04:14:14,663 - trainer.gmgtrainer - INFO - Acc:0.8329183459281921
+2023-04-23 04:14:42,819 - trainer.gmgtrainer - INFO - Test: 75	Loss: 0.7008	kldiv: 0.4359	Cosine: 0.8839	Cheb: 0.2224	 intersection: 0.7240
+2023-04-23 04:14:42,820 - trainer.gmgtrainer - INFO - Acc:0.7703373432159424
+2023-04-23 04:21:40,555 - trainer.gmgtrainer - INFO - Train: 76	Loss: 0.6403	kldiv: 0.3001	Cosine: 0.9311	 Cheb: 0.1775	 intersection: 0.7723
+2023-04-23 04:21:40,586 - trainer.gmgtrainer - INFO - Acc:0.836777925491333
+2023-04-23 04:22:08,765 - trainer.gmgtrainer - INFO - Test: 76	Loss: 0.7015	kldiv: 0.4357	Cosine: 0.8832	Cheb: 0.2232	 intersection: 0.7220
+2023-04-23 04:22:08,765 - trainer.gmgtrainer - INFO - Acc:0.7678571939468384
+2023-04-23 04:29:05,796 - trainer.gmgtrainer - INFO - Train: 77	Loss: 0.6429	kldiv: 0.3012	Cosine: 0.9307	 Cheb: 0.1775	 intersection: 0.7721
+2023-04-23 04:29:05,797 - trainer.gmgtrainer - INFO - Acc:0.8349103927612305
+2023-04-23 04:29:34,002 - trainer.gmgtrainer - INFO - Test: 77	Loss: 0.7019	kldiv: 0.4364	Cosine: 0.8832	Cheb: 0.2228	 intersection: 0.7223
+2023-04-23 04:29:34,002 - trainer.gmgtrainer - INFO - Acc:0.7678571939468384
+2023-04-23 04:36:30,615 - trainer.gmgtrainer - INFO - Train: 78	Loss: 0.6458	kldiv: 0.3031	Cosine: 0.9293	 Cheb: 0.1788	 intersection: 0.7712
+2023-04-23 04:36:30,627 - trainer.gmgtrainer - INFO - Acc:0.8259462118148804
+2023-04-23 04:36:58,567 - trainer.gmgtrainer - INFO - Test: 78	Loss: 0.6968	kldiv: 0.4334	Cosine: 0.8844	Cheb: 0.2208	 intersection: 0.7240
+2023-04-23 04:36:58,567 - trainer.gmgtrainer - INFO - Acc:0.7748016119003296
+2023-04-23 04:43:55,158 - trainer.gmgtrainer - INFO - Train: 79	Loss: 0.6407	kldiv: 0.3009	Cosine: 0.9304	 Cheb: 0.1776	 intersection: 0.7722
+2023-04-23 04:43:55,159 - trainer.gmgtrainer - INFO - Acc:0.8326693773269653
+2023-04-23 04:44:23,333 - trainer.gmgtrainer - INFO - Test: 79	Loss: 0.6971	kldiv: 0.4330	Cosine: 0.8837	Cheb: 0.2218	 intersection: 0.7218
+2023-04-23 04:44:23,333 - trainer.gmgtrainer - INFO - Acc:0.7668651342391968
+2023-04-23 04:51:20,873 - trainer.gmgtrainer - INFO - Train: 80	Loss: 0.6421	kldiv: 0.3012	Cosine: 0.9310	 Cheb: 0.1776	 intersection: 0.7721
+2023-04-23 04:51:20,904 - trainer.gmgtrainer - INFO - Acc:0.8320468664169312
+2023-04-23 04:51:48,940 - trainer.gmgtrainer - INFO - Test: 80	Loss: 0.6950	kldiv: 0.4323	Cosine: 0.8846	Cheb: 0.2210	 intersection: 0.7245
+2023-04-23 04:51:48,940 - trainer.gmgtrainer - INFO - Acc:0.7718254327774048
+2023-04-23 04:58:45,127 - trainer.gmgtrainer - INFO - Train: 81	Loss: 0.6384	kldiv: 0.2994	Cosine: 0.9315	 Cheb: 0.1781	 intersection: 0.7721
+2023-04-23 04:58:45,128 - trainer.gmgtrainer - INFO - Acc:0.8361554145812988
+2023-04-23 04:59:13,230 - trainer.gmgtrainer - INFO - Test: 81	Loss: 0.6978	kldiv: 0.4345	Cosine: 0.8846	Cheb: 0.2224	 intersection: 0.7234
+2023-04-23 04:59:13,230 - trainer.gmgtrainer - INFO - Acc:0.766369104385376
+2023-04-23 05:06:09,623 - trainer.gmgtrainer - INFO - Train: 82	Loss: 0.6422	kldiv: 0.3012	Cosine: 0.9308	 Cheb: 0.1777	 intersection: 0.7724
+2023-04-23 05:06:09,653 - trainer.gmgtrainer - INFO - Acc:0.8330428600311279
+2023-04-23 05:06:37,885 - trainer.gmgtrainer - INFO - Test: 82	Loss: 0.6921	kldiv: 0.4309	Cosine: 0.8851	Cheb: 0.2211	 intersection: 0.7246
+2023-04-23 05:06:37,886 - trainer.gmgtrainer - INFO - Acc:0.7703373432159424
+2023-04-23 05:13:34,212 - trainer.gmgtrainer - INFO - Train: 83	Loss: 0.6455	kldiv: 0.3027	Cosine: 0.9296	 Cheb: 0.1784	 intersection: 0.7711
+2023-04-23 05:13:34,231 - trainer.gmgtrainer - INFO - Acc:0.8319223523139954
+2023-04-23 05:14:02,344 - trainer.gmgtrainer - INFO - Test: 83	Loss: 0.7000	kldiv: 0.4352	Cosine: 0.8842	Cheb: 0.2217	 intersection: 0.7237
+2023-04-23 05:14:02,344 - trainer.gmgtrainer - INFO - Acc:0.7757936716079712
+2023-04-23 05:20:59,106 - trainer.gmgtrainer - INFO - Train: 84	Loss: 0.6450	kldiv: 0.3024	Cosine: 0.9304	 Cheb: 0.1780	 intersection: 0.7720
+2023-04-23 05:20:59,122 - trainer.gmgtrainer - INFO - Acc:0.8290587663650513
+2023-04-23 05:21:27,462 - trainer.gmgtrainer - INFO - Test: 84	Loss: 0.7001	kldiv: 0.4352	Cosine: 0.8840	Cheb: 0.2217	 intersection: 0.7245
+2023-04-23 05:21:27,463 - trainer.gmgtrainer - INFO - Acc:0.7683532238006592
+2023-04-23 05:28:23,686 - trainer.gmgtrainer - INFO - Train: 85	Loss: 0.6479	kldiv: 0.3038	Cosine: 0.9289	 Cheb: 0.1787	 intersection: 0.7704
+2023-04-23 05:28:23,701 - trainer.gmgtrainer - INFO - Acc:0.8264442682266235
+2023-04-23 05:28:51,760 - trainer.gmgtrainer - INFO - Test: 85	Loss: 0.7023	kldiv: 0.4362	Cosine: 0.8838	Cheb: 0.2219	 intersection: 0.7234
+2023-04-23 05:28:51,760 - trainer.gmgtrainer - INFO - Acc:0.7683532238006592
+2023-04-23 05:35:48,321 - trainer.gmgtrainer - INFO - Train: 86	Loss: 0.6471	kldiv: 0.3036	Cosine: 0.9293	 Cheb: 0.1789	 intersection: 0.7707
+2023-04-23 05:35:48,350 - trainer.gmgtrainer - INFO - Acc:0.831424355506897
+2023-04-23 05:36:16,221 - trainer.gmgtrainer - INFO - Test: 86	Loss: 0.6974	kldiv: 0.4339	Cosine: 0.8836	Cheb: 0.2226	 intersection: 0.7212
+2023-04-23 05:36:16,221 - trainer.gmgtrainer - INFO - Acc:0.7653770446777344
+2023-04-23 05:43:12,895 - trainer.gmgtrainer - INFO - Train: 87	Loss: 0.6399	kldiv: 0.3003	Cosine: 0.9300	 Cheb: 0.1789	 intersection: 0.7713
+2023-04-23 05:43:12,898 - trainer.gmgtrainer - INFO - Acc:0.8283118009567261
+2023-04-23 05:43:41,040 - trainer.gmgtrainer - INFO - Test: 87	Loss: 0.7012	kldiv: 0.4361	Cosine: 0.8842	Cheb: 0.2219	 intersection: 0.7230
+2023-04-23 05:43:41,041 - trainer.gmgtrainer - INFO - Acc:0.7698413133621216
+2023-04-23 05:50:37,415 - trainer.gmgtrainer - INFO - Train: 88	Loss: 0.6417	kldiv: 0.3009	Cosine: 0.9306	 Cheb: 0.1776	 intersection: 0.7724
+2023-04-23 05:50:37,440 - trainer.gmgtrainer - INFO - Acc:0.8321713209152222
+2023-04-23 05:51:05,531 - trainer.gmgtrainer - INFO - Test: 88	Loss: 0.7036	kldiv: 0.4377	Cosine: 0.8826	Cheb: 0.2238	 intersection: 0.7210
+2023-04-23 05:51:05,532 - trainer.gmgtrainer - INFO - Acc:0.7668651342391968
+2023-04-23 05:58:02,389 - trainer.gmgtrainer - INFO - Train: 89	Loss: 0.6427	kldiv: 0.3016	Cosine: 0.9298	 Cheb: 0.1788	 intersection: 0.7712
+2023-04-23 05:58:02,417 - trainer.gmgtrainer - INFO - Acc:0.8289343118667603
+2023-04-23 05:58:30,838 - trainer.gmgtrainer - INFO - Test: 89	Loss: 0.6994	kldiv: 0.4353	Cosine: 0.8839	Cheb: 0.2224	 intersection: 0.7233
+2023-04-23 05:58:30,838 - trainer.gmgtrainer - INFO - Acc:0.771329402923584
+2023-04-23 06:05:28,836 - trainer.gmgtrainer - INFO - Train: 90	Loss: 0.6432	kldiv: 0.3020	Cosine: 0.9298	 Cheb: 0.1780	 intersection: 0.7713
+2023-04-23 06:05:28,838 - trainer.gmgtrainer - INFO - Acc:0.8320468664169312
+2023-04-23 06:05:57,107 - trainer.gmgtrainer - INFO - Test: 90	Loss: 0.7053	kldiv: 0.4396	Cosine: 0.8829	Cheb: 0.2229	 intersection: 0.7234
+2023-04-23 06:05:57,108 - trainer.gmgtrainer - INFO - Acc:0.76884925365448
+2023-04-23 06:12:53,495 - trainer.gmgtrainer - INFO - Train: 91	Loss: 0.6401	kldiv: 0.3005	Cosine: 0.9301	 Cheb: 0.1776	 intersection: 0.7722
+2023-04-23 06:12:53,500 - trainer.gmgtrainer - INFO - Acc:0.8303037881851196
+2023-04-23 06:13:21,426 - trainer.gmgtrainer - INFO - Test: 91	Loss: 0.6995	kldiv: 0.4357	Cosine: 0.8842	Cheb: 0.2220	 intersection: 0.7244
+2023-04-23 06:13:21,427 - trainer.gmgtrainer - INFO - Acc:0.7658730745315552
+2023-04-23 06:20:19,172 - trainer.gmgtrainer - INFO - Train: 92	Loss: 0.6460	kldiv: 0.3032	Cosine: 0.9292	 Cheb: 0.1799	 intersection: 0.7706
+2023-04-23 06:20:19,193 - trainer.gmgtrainer - INFO - Acc:0.831548810005188
+2023-04-23 06:20:47,300 - trainer.gmgtrainer - INFO - Test: 92	Loss: 0.7012	kldiv: 0.4357	Cosine: 0.8841	Cheb: 0.2229	 intersection: 0.7234
+2023-04-23 06:20:47,300 - trainer.gmgtrainer - INFO - Acc:0.7728174924850464
+2023-04-23 06:27:45,414 - trainer.gmgtrainer - INFO - Train: 93	Loss: 0.6463	kldiv: 0.3035	Cosine: 0.9293	 Cheb: 0.1786	 intersection: 0.7715
+2023-04-23 06:27:45,447 - trainer.gmgtrainer - INFO - Acc:0.8290587663650513
+2023-04-23 06:28:13,397 - trainer.gmgtrainer - INFO - Test: 93	Loss: 0.7026	kldiv: 0.4376	Cosine: 0.8827	Cheb: 0.2229	 intersection: 0.7239
+2023-04-23 06:28:13,398 - trainer.gmgtrainer - INFO - Acc:0.7698413133621216
+2023-04-23 06:35:11,115 - trainer.gmgtrainer - INFO - Train: 94	Loss: 0.6422	kldiv: 0.3011	Cosine: 0.9305	 Cheb: 0.1775	 intersection: 0.7726
+2023-04-23 06:35:11,144 - trainer.gmgtrainer - INFO - Acc:0.8285607695579529
+2023-04-23 06:35:39,441 - trainer.gmgtrainer - INFO - Test: 94	Loss: 0.7013	kldiv: 0.4364	Cosine: 0.8837	Cheb: 0.2236	 intersection: 0.7215
+2023-04-23 06:35:39,442 - trainer.gmgtrainer - INFO - Acc:0.7653770446777344
+2023-04-23 06:42:37,331 - trainer.gmgtrainer - INFO - Train: 95	Loss: 0.6458	kldiv: 0.3034	Cosine: 0.9295	 Cheb: 0.1794	 intersection: 0.7709
+2023-04-23 06:42:37,359 - trainer.gmgtrainer - INFO - Acc:0.8298057913780212
+2023-04-23 06:43:05,515 - trainer.gmgtrainer - INFO - Test: 95	Loss: 0.6957	kldiv: 0.4331	Cosine: 0.8843	Cheb: 0.2228	 intersection: 0.7223
+2023-04-23 06:43:05,515 - trainer.gmgtrainer - INFO - Acc:0.7673611640930176
+2023-04-23 06:50:03,864 - trainer.gmgtrainer - INFO - Train: 96	Loss: 0.6407	kldiv: 0.3004	Cosine: 0.9306	 Cheb: 0.1781	 intersection: 0.7722
+2023-04-23 06:50:03,878 - trainer.gmgtrainer - INFO - Acc:0.831424355506897
+2023-04-23 06:50:31,916 - trainer.gmgtrainer - INFO - Test: 96	Loss: 0.7002	kldiv: 0.4366	Cosine: 0.8844	Cheb: 0.2216	 intersection: 0.7248
+2023-04-23 06:50:31,916 - trainer.gmgtrainer - INFO - Acc:0.7728174924850464
+2023-04-23 06:57:29,867 - trainer.gmgtrainer - INFO - Train: 97	Loss: 0.6457	kldiv: 0.3028	Cosine: 0.9300	 Cheb: 0.1787	 intersection: 0.7713
+2023-04-23 06:57:29,900 - trainer.gmgtrainer - INFO - Acc:0.8321713209152222
+2023-04-23 06:57:57,911 - trainer.gmgtrainer - INFO - Test: 97	Loss: 0.7031	kldiv: 0.4369	Cosine: 0.8832	Cheb: 0.2227	 intersection: 0.7233
+2023-04-23 06:57:57,911 - trainer.gmgtrainer - INFO - Acc:0.7703373432159424
+2023-04-23 07:04:56,354 - trainer.gmgtrainer - INFO - Train: 98	Loss: 0.6414	kldiv: 0.3007	Cosine: 0.9300	 Cheb: 0.1783	 intersection: 0.7719
+2023-04-23 07:04:56,381 - trainer.gmgtrainer - INFO - Acc:0.8304283022880554
+2023-04-23 07:05:24,329 - trainer.gmgtrainer - INFO - Test: 98	Loss: 0.7015	kldiv: 0.4360	Cosine: 0.8838	Cheb: 0.2224	 intersection: 0.7235
+2023-04-23 07:05:24,329 - trainer.gmgtrainer - INFO - Acc:0.7673611640930176
+2023-04-23 07:12:22,778 - trainer.gmgtrainer - INFO - Train: 99	Loss: 0.6408	kldiv: 0.3005	Cosine: 0.9306	 Cheb: 0.1772	 intersection: 0.7729
+2023-04-23 07:12:22,812 - trainer.gmgtrainer - INFO - Acc:0.8361554145812988
+2023-04-23 07:12:50,885 - trainer.gmgtrainer - INFO - Test: 99	Loss: 0.7009	kldiv: 0.4366	Cosine: 0.8831	Cheb: 0.2228	 intersection: 0.7229
+2023-04-23 07:12:50,886 - trainer.gmgtrainer - INFO - Acc:0.7703373432159424
+2023-04-23 07:19:48,677 - trainer.gmgtrainer - INFO - Train: 100	Loss: 0.6495	kldiv: 0.3054	Cosine: 0.9293	 Cheb: 0.1796	 intersection: 0.7703
+2023-04-23 07:19:48,689 - trainer.gmgtrainer - INFO - Acc:0.8279382586479187
+2023-04-23 07:20:16,833 - trainer.gmgtrainer - INFO - Test: 100	Loss: 0.6992	kldiv: 0.4349	Cosine: 0.8847	Cheb: 0.2216	 intersection: 0.7239
+2023-04-23 07:20:16,833 - trainer.gmgtrainer - INFO - Acc:0.7723214626312256
+2023-04-23 07:27:14,724 - trainer.gmgtrainer - INFO - Train: 101	Loss: 0.6440	kldiv: 0.3021	Cosine: 0.9299	 Cheb: 0.1785	 intersection: 0.7715
+2023-04-23 07:27:14,736 - trainer.gmgtrainer - INFO - Acc:0.8283118009567261
+2023-04-23 07:27:42,839 - trainer.gmgtrainer - INFO - Test: 101	Loss: 0.7043	kldiv: 0.4376	Cosine: 0.8837	Cheb: 0.2216	 intersection: 0.7240
+2023-04-23 07:27:42,839 - trainer.gmgtrainer - INFO - Acc:0.771329402923584
+2023-04-23 07:34:39,882 - trainer.gmgtrainer - INFO - Train: 102	Loss: 0.6444	kldiv: 0.3025	Cosine: 0.9302	 Cheb: 0.1790	 intersection: 0.7710
+2023-04-23 07:34:39,883 - trainer.gmgtrainer - INFO - Acc:0.831424355506897
+2023-04-23 07:35:07,983 - trainer.gmgtrainer - INFO - Test: 102	Loss: 0.6946	kldiv: 0.4322	Cosine: 0.8848	Cheb: 0.2215	 intersection: 0.7238
+2023-04-23 07:35:07,983 - trainer.gmgtrainer - INFO - Acc:0.7683532238006592
+2023-04-23 07:42:04,736 - trainer.gmgtrainer - INFO - Train: 103	Loss: 0.6387	kldiv: 0.2996	Cosine: 0.9306	 Cheb: 0.1780	 intersection: 0.7725
+2023-04-23 07:42:04,768 - trainer.gmgtrainer - INFO - Acc:0.8276892900466919
+2023-04-23 07:42:32,700 - trainer.gmgtrainer - INFO - Test: 103	Loss: 0.7003	kldiv: 0.4361	Cosine: 0.8836	Cheb: 0.2232	 intersection: 0.7221
+2023-04-23 07:42:32,701 - trainer.gmgtrainer - INFO - Acc:0.7683532238006592
