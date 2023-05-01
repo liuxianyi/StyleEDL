@@ -1,0 +1,28 @@
+model: gmg
+trainer: gmg
+seed: 330
+
+
+mu: 0.6
+lambda: 0.6
+parts: 2
+
+
+gpu_id: 1
+batch_size: 16
+
+epochs: 90
+
+lr: 0.005
+scheduler: scheduler_multi
+scheduler_multi:
+  milestones: [10, 30, 50, 70]
+  gamma: 0.1
+
+scheduler_cos:
+  T_max: 40
+  eta_min: 0
+
+momentum: 0.1
+weight_decay: 1e-7
+# resume_path: ./logs/Mar-01_14:45:22_final/epoch_55.pth

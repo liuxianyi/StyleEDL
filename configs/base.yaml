@@ -1,0 +1,65 @@
+model: backbone
+trainer: backbone
+
+# ===========================
+# train
+seed: 330
+gpu_id: 0
+epochs: 90
+batch_size: 8
+
+
+image_size: 448
+isNormalize: True
+num_workers: 12
+
+dataset: Twitter_LDL
+num_classes: 8
+data_path: /media/Harddisk_A/emotion_dataset/
+
+
+resume_path:
+save_interval: 2000
+save_mark: 0.4
+display_interval: 20
+
+# ===========================
+# optimizer
+momentum: 0.1
+
+# ===========================
+# learning rate
+lr: 0.01
+
+# ===========================
+# scheduler
+scheduler: scheduler_cos
+
+# stepLR
+scheduler_stepLR:
+  step_size: 15
+  gamma: 0.5
+
+# MultiStepLR
+scheduler_multi:
+  milestones: [10, 20, 50]
+  gamma: 0.5
+
+# ExponentialLR
+scheduler_exp:
+  gamma: 0.5
+
+# CosineAnnealingLR
+scheduler_cos:
+  T_max: 40
+  eta_min: 0
+
+# CyclicLR
+scheduler_cyclic:
+  max_lr: 0.05
+  up: 10
+  down: 10
+
+# lambda
+scheduler_lambda:
+  lr_lambda: None
